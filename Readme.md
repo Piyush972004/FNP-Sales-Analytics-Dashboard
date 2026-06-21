@@ -6,7 +6,7 @@ This project presents an interactive Sales & Revenue Analytics Dashboard develop
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard/Dashboard_Screenshot.png)
+![Dashboard](Dashboard/Screenshot 2026-06-21 155943.png)
 
 ---
 
@@ -56,6 +56,9 @@ This project presents an interactive Sales & Revenue Analytics Dashboard develop
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
+- Power Query Editor
+- Power Pivot
+- Measures
 - Slicers
 - Data Visualization
 - Dashboard Design
