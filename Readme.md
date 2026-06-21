@@ -6,7 +6,7 @@ This project presents an interactive Sales & Revenue Analytics Dashboard develop
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-06-21 155943.png).
+![Dashboard](Screenshot%202026-06-21%20155943.png).
 
 ---
 
